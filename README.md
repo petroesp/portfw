@@ -81,7 +81,7 @@ portfw:<proto>:<extport>:<dstip>:<dstport>:<role>
 ## 4. Установка
 
 ```bash
-git clone <repo> portfw   # или скопируйте архив проекта
+git clone https://github.com/petroesp/portfw.git
 cd portfw
 sudo ./install.sh
 ```
